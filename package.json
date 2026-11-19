@@ -1,0 +1,21 @@
+{
+  "name": "hyperthread-cli",
+  "version": "1.0.0",
+  "description": "High-performance concurrent command executor for low-level system utilities",
+  "type": "module",
+  "bin": {
+    "hyperthread": "./src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "concurrency",
+    "cli",
+    "system",
+    "utility",
+    "node"
+  ],
+  "author": "Suman Mehta",
+  "license": "MIT"
+}
